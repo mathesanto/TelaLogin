@@ -1,2 +1,2 @@
 # TelaLogin
-Alguns layouts para tela de login
+Alguns temas para tela de login
